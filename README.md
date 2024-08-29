@@ -26,12 +26,11 @@ The analysis leverages a combination of:
 
 ## Repository Structure
 - **/data**: Contains the raw data used for analysis.
-- **/notebooks**: Jupyter notebooks with the analysis code.
 - **/reports**: Final report and visualizations generated from the analysis.
-- **/scripts**: Python scripts used for data cleaning and preprocessing.
+- **/Excel**:  used for data cleaning and preprocessing.
 
 ## Tools and Technologies
-- **Python**: For data cleaning, modeling, and analysis.
+- **Excel**: For data cleaning, modeling, and analysis.
 - **SPSS**: For performing regression analysis and other statistical tests.
 - **Power BI**: For visualizing the sales trends and consumer behavior insights.
 
